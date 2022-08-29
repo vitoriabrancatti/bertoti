@@ -3,3 +3,24 @@
 Titus Winters, Software Engineering at Google
 
 Segundo o texto acima, podemos concluir que ambas funções andam juntas, todavia um engenheiro de software pode ser um desenvolvedor mas um desenvolvedor não pode ser um engenheiro de software. Tal fato acontece pois o engenheiro planeja, desenvolve e também realiza a manutenção do sistema, plataforma, etc., já o desenvolver participa efetivamente da elaboração. Portanto, é notório que elas se relacionam mas possuem grandes diferenças.
+
+-------- ---------
+
+## Atividade - Biblioteca
+
+### Requisitos funcionais (story cards):
+- O aluno pode fazer seu cadastro na biblioteca;
+- O funcionário da biblioteca pode cadastrar os livros;
+- O aluno pode emprestar os livros; 
+- O aluno pode aumentar o prazo de empréstimo; 
+- O funcionário da biblioteca pode dar baixa nos livros.
+
+### Requisitos não-funcionais: 
+- Cadastro;
+- Consulta;
+
+### Caso de Uso:
+
+![Diagrama sem nome](https://user-images.githubusercontent.com/102263593/187313834-22ab54d7-6af6-4e84-92f0-48fd99e6e3a0.jpg)
+
+
