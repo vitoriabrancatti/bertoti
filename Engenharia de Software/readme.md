@@ -15,12 +15,22 @@ Segundo o texto acima, podemos concluir que ambas funções andam juntas, todavi
 - O aluno pode aumentar o prazo de empréstimo; 
 - O funcionário da biblioteca pode dar baixa nos livros.
 
-### Requisitos não-funcionais: 
-- Cadastro;
-- Consulta;
-
 ### Caso de Uso:
 
 ![Diagrama sem nome](https://user-images.githubusercontent.com/102263593/187313834-22ab54d7-6af6-4e84-92f0-48fd99e6e3a0.jpg)
+
+### Sequência:
+
+-------- ---------
+
+### Requisitos não-funcionais:
+- Separação de interesses, utilizando o modelo MVC para separar bem as quatro operações básicas de um banco de dados: Create, Retrieve, Update e Delete;
+- Usabilidade: interface de simples acesso e de fácil uso;
+- Execução do sistema em desktop;
+- Desempenho;
+- Segurança.
+
+
+
 
 
