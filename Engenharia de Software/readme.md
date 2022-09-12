@@ -30,7 +30,9 @@ Segundo o texto acima, podemos concluir que ambas funções andam juntas, todavi
 - Desempenho;
 - Segurança.
 
+### Diagrama de Classes UML:
 
+![Diagrama sem nome](https://user-images.githubusercontent.com/102263593/189771838-6927fb38-e235-4d08-b07a-fca88d5c98c2.jpg)
 
 
 
