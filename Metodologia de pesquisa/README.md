@@ -129,11 +129,6 @@ Essa funcionalidade foi essencial tanto para a **configuração inicial da base*
 * Colaborei na criação dos modelos de dados.
 * No início, a compreensão do escopo não era clara, mas à medida que as sprints evoluíram, desenvolvi visão sólida que permitiu finalizar um DER consistente.
 
-### 🔹 Apoio ao Time como Facilitadora (Scrum)
-
-* Acompanhei tarefas, organizei o fluxo e ajudei colegas que encontravam dificuldades técnicas.
-* Redistribuí atividades quando necessário para garantir entregas dentro das sprints.
-
 ---
 
 ## Hard Skills
@@ -156,4 +151,5 @@ Essa funcionalidade foi essencial tanto para a **configuração inicial da base*
 * **Organização:** Controle de tarefas e entregas dentro das sprints.
 * **Adaptabilidade:** Ajustes rápidos conforme mudanças de requisitos.
 * **Resolução de Problemas:** Aplicada principalmente na leitura de arquivos, segurança e padronização das interfaces.
+
 
