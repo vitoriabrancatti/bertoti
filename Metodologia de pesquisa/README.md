@@ -51,7 +51,6 @@ A solução reduziu dependência técnica, acelerou entregas e aumentou a efici�
 
 Durante esse processo, atuei diretamente nas etapas que envolvem fluxo de configuração, leitura e validação dos arquivos enviados, padronização das telas e integração entre as camadas, garantindo consistência entre regras de negócio, dados e interface.
 
-**Repositório:** [https://github.com/TechHorizonBR/API_3SEM.git](https://github.com/TechHorizonBR/API_3SEM.git)
 Desenvolvemos uma aplicação completa que automatiza a configuração de fontes de dados, incluindo:
 
 * Cadastro de clientes, soluções e usuários;
@@ -157,3 +156,4 @@ Essa funcionalidade foi essencial tanto para a **configuração inicial da base*
 * **Organização:** Controle de tarefas e entregas dentro das sprints.
 * **Adaptabilidade:** Ajustes rápidos conforme mudanças de requisitos.
 * **Resolução de Problemas:** Aplicada principalmente na leitura de arquivos, segurança e padronização das interfaces.
+
